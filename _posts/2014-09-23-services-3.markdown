@@ -1,6 +1,6 @@
 ---
 layout: default
-img: phones.png
+img: j3.png
 category: Services
 title: Google Web Fonts and<br>Font Awesome Icons
 description: |
