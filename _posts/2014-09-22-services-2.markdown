@@ -1,9 +1,8 @@
 ---
 layout: default
 img: j2.png
-category: Services
-title: 这是个项链<br>反正我也不知道写什么
+category: Products
+title: 项链<br>项链是好项链
 description: |
 ---
-  我不听我不听 [Amazon](https://www.amazon.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  我不听我不听 [Amazon](https://www.amazon.com/)!

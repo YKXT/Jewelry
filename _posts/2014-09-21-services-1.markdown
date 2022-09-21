@@ -1,8 +1,8 @@
 ---
 layout: default
 img: j1.png
-category: Services
-title: 这是个戒指:<br>好的好的
+category: Products
+title: 戒指:<br>戒指是好戒指
 description: |
 ---
-  A special thanks to [随便搞个链接](https://www.google.com/) 啦啦啦啦
+  我就 [随便搞个链接](https://www.google.com/) 啦啦啦啦
