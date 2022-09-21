@@ -27,8 +27,11 @@ permalink: pretty
 
 social:
   - title: twitter
+    iconName: twitter
     url: https://twitter.com/?lang=en
   - title: instagram
+    iconName: instagram
     url: https://www.instagram.com/
   - title: xiaohongshu
+    iconName: book
     url: https://www.xiaohongshu.com/
