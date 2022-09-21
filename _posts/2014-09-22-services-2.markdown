@@ -2,9 +2,8 @@
 layout: default
 img: j2.png
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: 这是个项链<br>反正我也不知道写什么
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
+  我不听我不听 [Amazon](https://www.amazon.com/)! Visit
   their website to download some of their awesome, free photoshop actions!
