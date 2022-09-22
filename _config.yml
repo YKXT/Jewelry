@@ -1,43 +1,79 @@
-# ----------------------- #
-#      Main Configs       #
-# ----------------------- #
+# ----
+# Site
 
-url: http://yoursite.com
-title: 筱荟珠宝
-email: your-email@domain.com
-author: YK
-description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
-copyright: 'Copyright &copy; 2015 Your Name. All Rights Reserved.'
-credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
+title: XHJewelery
+url: "http://turquoise-rook.cloudvent.net/"
+baseurl:
+google_analytics_key:
+google_maps_javascript_api_key:
+snipcart_key: "NWNjOWZhYjctYmE1ZS00MDM3LThkNjUtZmE5M2NiMTU1NzAwNjM2MjYzNTE1MzM5ODg1ODkw"
+snipcart_currency: "usd"
 
-# ----------------------- #
-#    Jekyll & Plugins     #
-# ----------------------- #
+# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+logo: /siteicon.png
+description: Jewelry Store
+author:
+  name: XH
+  email: XH@example.com
+  twitter: XH # twitter username without the @ symbol
+  phone: "+1 23456789"
+social:
+  name: Fur Template
+  links:
+    - https://github.com/CloudCannon/fur-jekyll-template
 
-# Build settings
-markdown: kramdown
+# -----
+# Build
+timezone: Etc/UTC
+
+collections:
+  staff_members:
+    output: false
+  products:
+    output: true
+
 permalink: pretty
 
-# ----------------------- #
-#   3rd Party Settings    #
-# ----------------------- #
+defaults:
+  -
+    scope:
+      path: ""
+      type: "products"
+    values:
+      layout: "product"
+  -
+    scope:
+      path: ""
+    values:
+      layout: "page"
+  -
+    scope:
+      path: "index.html"
+    values:
+      layout: "default"
 
-social:
-  - title: twitter
-    icon: twitter
-    url: https://twitter.com/
-  - title: instagram
-    icon: instagram
-    url: https://www.instagram.com/
-  - title: xiaohongshu
-    icon: book
-    url: https://www.xiaohongshu.com/
-  - title: facebook
-    icon: facebook
-    url: https://www.facebook.com/
-  - title: youtube
-    icon: youtube
-    url: https://www.youtube.com/
+jekyll-archives:
+  enabled:
+    - categories
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENCE
+
+social_icons:
+  - Email
+  - Facebook
+  - Google Plus
+  - Instagram
+  - LinkedIn
+  - Pinterest
+  - Tumblr
+  - Twitter
+  - YouTube
+  - RSS

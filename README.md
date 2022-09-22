@@ -1,35 +1,57 @@
-# Landing Page Jekyll theme
+## Fur
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+E-commerce template for Jekyll. Browse through a [live demo](https://turquoise-rook.cloudvent.net).
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+![Fur template screenshot](images/_screenshot.png)
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+Fur was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+Find more templates, themes and Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+[![Deploy to CloudCannon](https://buttons.cloudcannon.com/deploy.svg)](https://app.cloudcannon.com/register#sites/connect/github/CloudCannon/fur-jekyll-template)
 
-===
+## Features
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+* List product with multiple colours and sizes
+* Take payment online using SnipCart
+* Contact form
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
+## Setup
 
-## Version
-1.0.1
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics, Google Maps API key and [SnipCart key](https://snipcart.com/) to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+
+## Develop
+
+Fur was built with [Jekyll](http://jekyllrb.com/) version 4.2.1, but should support newer versions as well.
+
+Install the dependencies with [Bundler](http://bundler.io/):
+
+~~~bash
+$ bundle install
+~~~
+
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
+
+~~~bash
+$ bundle exec jekyll serve
+~~~
+
+## Editing
+
+Fur is already optimised for adding, updating and removing products and editing the navigation and footer in CloudCannon.
+
+### Navigation
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.

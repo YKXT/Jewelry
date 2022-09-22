@@ -1,0 +1,30 @@
+---
+title: Our Story
+hero: Our Story
+---
+
+<p class="editor-link" style="text-align: center; position: relative;
+    top: -185px;"><a href="cloudcannon:collections/_staff_members/" class="btn"><strong>&#9998;</strong> Manage Staff members</a></p>
+<ul class="staff">
+	{% for person in site.staff_members %}
+		<li>
+			<div class="staff-image" style="background-image: url({% include relative-src.html src=person.image_path %})"></div>
+			<div class="name">{{ person.name }}</div>
+		</li>
+	{% endfor %}
+</ul>
+
+<div class="thirds story-points">
+	<div>
+		<h3 class="editable">Passion</h3>
+		<p class="editable">搞点副业.</p>
+	</div>
+	<div>
+		<h3 class="editable">Jewelry</h3>
+		<p class="editable">喜欢珠宝 卖不出去 自己带.</p>
+	</div>
+	<div>
+		<h3 class="editable">Style</h3>
+		<p class="editable">就是漂亮.</p>
+	</div>
+</div>
