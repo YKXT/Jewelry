@@ -1,11 +1,11 @@
 ---
 name: TBD
 description_markdown: >-
-  TBD.
+ TBD.
 
 
 
-  TBD.
+ TBD.
 garment_type:
 price: '99999.00'
 sku: tiger

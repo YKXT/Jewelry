@@ -1,11 +1,11 @@
 ---
-name: 火星戒指
+name: 字字珠玑戒指
 description_markdown: >-
-  反正就是好看.
+ 反正就是好看.
 
 
 
-  好好好.
+ 我的灵魂早已脱缰.
 garment_type:
 price: '50.00'
 sku: deer
