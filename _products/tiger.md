@@ -1,11 +1,11 @@
 ---
-name: TBD
+name: 人老珠黄的TBD
 description_markdown: >-
- TBD.
+ 你以为我不会用这个成语是吗.
 
 
 
- TBD.
+ 错 大错特错 不要来侮辱我的美 我不是你的style 为何偏偏要娶我.
 garment_type:
 price: '99999.00'
 sku: tiger

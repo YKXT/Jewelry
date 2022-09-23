@@ -13,7 +13,7 @@ subtitle: 我卖萌 你懵逼 我蒙蔽你 你梦见我 真好
 					<li>
 						{% include product-styles.html product=product %}
 						<div class="product-details">
-							<h4><a href="/Jewelry/{{ product.url }}">{{ product.name }}</a></h4>
+							<h4><a href="/Jewelry{{ product.url }}">{{ product.name }}</a></h4>
 							<div class="product-description">
 								{{ product.description_markdown | truncate: 45 | markdownify }}
 							</div>
