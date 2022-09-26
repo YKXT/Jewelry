@@ -134,7 +134,7 @@ nav {
 	@media #{$mid-point} {
 		a.cart {
 			border-radius: 43px;
-			color: #fff;
+			color: rgb(141, 6, 203);
 			border: 1px solid rgba(255,255,255, .4);
 			position: absolute;
 			right: 20px;
@@ -150,7 +150,7 @@ nav {
 	}
 
 	a.active {
-		color: #fff;
+		color: rgb(141, 6, 203);
 	}
 
 }
