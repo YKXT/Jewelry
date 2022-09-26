@@ -7,7 +7,7 @@ description_markdown: >-
 
  我就问你懵逼不懵逼.
 garment_type:
-price: '50.00'
+price: '49.99'
 sku: hog
 stock: 10
 sizes:
@@ -18,11 +18,11 @@ sizes:
 styles:
   - name: Clay
     color: '#9c5145'
-    image: /images/products/bracelet/j4.png
+    image: /images/products/bracelet/bracelet01.png
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/hog/cream.jpg
+    image: /images/products/temp.png
   - name: Blue
     color: '#39589e'
-    image: /images/products/hog/blue.jpg
+    image: /images/products/temp.png
 ---

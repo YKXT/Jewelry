@@ -7,7 +7,7 @@ description_markdown: >-
 
  我的灵魂早已脱缰.
 garment_type:
-price: '50.00'
+price: '49.99'
 sku: deer
 stock: 10
 sizes:
@@ -21,11 +21,11 @@ styles:
     image: /images/products/ring/j1.png
   - name: Blue
     color: '#39589e'
-    image: /images/products/deer/blue.jpg
+    image: /images/products/temp.png
   - name: Clay
     color: '#9c5145'
-    image: /images/products/deer/clay.jpg
+    image: /images/products/temp.png
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/deer/cream.jpg
+    image: /images/products/temp.png
 ---

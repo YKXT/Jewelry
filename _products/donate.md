@@ -1,14 +1,14 @@
 ---
-name: 人老珠黄的TBD
+name: Andy说要给我donate
 description_markdown: >-
- 你以为我不会用这个成语是吗.
+ 反正就是好看.
 
 
 
- 错 大错特错 不要来侮辱我的美 我不是你的style 为何偏偏要娶我.
+ Andy说给我Donate大量资金.
 garment_type:
-price: '0.50'
-sku: tiger
+price: '0.99'
+sku: deer
 stock: 10
 sizes:
   - Small
@@ -27,8 +27,5 @@ styles:
     image: /images/products/temp.png
   - name: Cream
     color: '#dfd3c2'
-    image: /images/products/temp.png
-  - name: Green
-    color: '#67aa79'
     image: /images/products/temp.png
 ---

@@ -8,7 +8,7 @@ description_markdown: >-
  我在仰望 月亮之上
  有多少梦想在自由地飞翔.
 garment_type:
-price: '60.00'
+price: '59.99'
 sku: giraffe
 stock: 10
 sizes:
@@ -19,5 +19,5 @@ sizes:
 styles:
   - name: Green
     color: '#67aa79'
-    image: /images/products/earrings/j3.png
+    image: /images/products/earrings/earrings01.png
 ---
