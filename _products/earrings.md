@@ -9,7 +9,7 @@ description_markdown: >-
  有多少梦想在自由地飞翔.
 garment_type:
 price: '59.99'
-sku: giraffe
+sku: earrings
 stock: 10
 sizes:
   - Small

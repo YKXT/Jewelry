@@ -8,7 +8,7 @@ description_markdown: >-
  Andy说给我Donate大量资金.
 garment_type:
 price: '0.99'
-sku: deer
+sku: zdonate
 stock: 10
 sizes:
   - Small

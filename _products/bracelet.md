@@ -8,7 +8,7 @@ description_markdown: >-
  我就问你懵逼不懵逼.
 garment_type:
 price: '49.99'
-sku: hog
+sku: bracelet
 stock: 10
 sizes:
   - Small

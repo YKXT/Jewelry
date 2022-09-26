@@ -8,7 +8,7 @@ description_markdown: >-
  TBD.
 garment_type:
 price: '29.99'
-sku: lion
+sku: brooch
 stock: 10
 sizes:
   - Small

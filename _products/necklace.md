@@ -8,7 +8,7 @@ description_markdown: >-
  十五的月亮升上了天空哟.
 garment_type:
 price: '44.99'
-sku: elephant
+sku: necklace
 stock: 10
 sizes:
   - Small

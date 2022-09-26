@@ -8,7 +8,7 @@ description_markdown: >-
  错 大错特错 不要来侮辱我的美 我不是你的style 为何偏偏要娶我.
 garment_type:
 price: '0.50'
-sku: tiger
+sku: tbd
 stock: 10
 sizes:
   - Small

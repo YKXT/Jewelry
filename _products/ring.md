@@ -8,7 +8,7 @@ description_markdown: >-
  我的灵魂早已脱缰.
 garment_type:
 price: '49.99'
-sku: deer
+sku: ring
 stock: 10
 sizes:
   - Small
@@ -18,7 +18,7 @@ sizes:
 styles:
   - name: Black
     color: '#000000'
-    image: /images/products/ring/j1.png
+    image: /images/products/ring/ring01.png
   - name: Blue
     color: '#39589e'
     image: /images/products/temp.png
