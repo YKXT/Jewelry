@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Dans La Lune Jewelery
+title: Dans La Lune Studio
 url: "http://turquoise-rook.cloudvent.net/"
 baseurl:
 google_analytics_key:
@@ -13,9 +13,9 @@ snipcart_currency: "usd"
 logo: /siteicon.png
 description: Jewelry Store
 author:
-  name: MBDLL
-  email: MBDLLJewelry@example.com
-  twitter: MBDLL # twitter username without the @ symbol
+  name: YYDLL
+  email: YYDLLStudio@example.com
+  twitter: YYDLLStudio # twitter username without the @ symbol
   phone: "+111 2223333"
 social:
   name: Fur Template
